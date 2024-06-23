@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
-<img align="center" src="https://pbs.twimg.com/profile_banners/1803075384344522752/1718766356/600x200" />
+<img align="center" src="*https://pbs.twimg.com/profile_banners/1803075384344522752/1718766356/1500x500**" />
 
 <br/>
 
