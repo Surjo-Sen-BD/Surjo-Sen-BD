@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
-<img align="center" src="https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/448027216_776832817940095_9192979238210710520_n.png?stp=dst-png_p240x240&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=rCIaeXS2N5QQ7kNvgEVxv_7&_nc_ht=scontent.fdac135-1.fna&oh=00_AYCgPfLS6FIWBtOszCplPXS4y_ch12-1gui_JLcvJojvNQ&oe=667E08D5" />
+<img align="center" src="https://pbs.twimg.com/profile_banners/1803075384344522752/1718766356/600x200" />
 
 <br/>
 
